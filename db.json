@@ -1,0 +1,40 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Future of Fintech",
+      "category": [
+        "FINANCE",
+        "TECH"
+      ],
+      "description": "Exploring how AI and blockchain are reshaping financial services",
+      "date": "2026-01-11T09:12:45.120Z",
+      "coverImage": "https://images.pexels.com/photos/6801648/pexels-photo-6801648.jpeg",
+      "content": "The financial technology sector is undergoing a massive transformation. Artificial Intelligence and blockchain technology are at the forefront of this revolution, changing how we think about money, transactions, and financial services.\n\nAI is enabling smarter fraud detection, personalized financial advice, and automated trading systems that can analyze market trends in milliseconds. Meanwhile, blockchain is providing unprecedented transparency and security in transactions.\n\nThe convergence of these technologies is creating new opportunities for innovation in areas like decentralized finance (DeFi), digital currencies, and smart contracts. As we move forward, we can expect to see more seamless, secure, and accessible financial services for everyone."
+    },
+    {
+      "id": "2",
+      "title": "The Rise of Web3",
+      "category": [
+        "TECH",
+        "BLOCKCHAIN"
+      ],
+      "description": "Understanding the decentralized web and its implications",
+      "date": "2026-01-10T14:30:00.000Z",
+      "coverImage": "https://images.pexels.com/photos/5380664/pexels-photo-5380664.jpeg",
+      "content": "Web3 represents the next evolution of the internet - a decentralized web where users have control over their data and digital assets. Unlike Web2, where tech giants control platforms and user data, Web3 is built on blockchain technology and distributed networks.\n\nThis shift enables new possibilities like decentralized applications (dApps), token-based economics, and true digital ownership through NFTs. Users can interact with applications without intermediaries, maintaining sovereignty over their digital identity and assets.\n\nWhile still in its early stages, Web3 is attracting significant investment and talent. The challenges of scalability, user experience, and regulation remain, but the potential for a more open and equitable internet is driving innovation forward."
+    },
+    {
+      "id": "e327",
+      "title": "My First Blog Post",
+      "category": [
+        "TEST",
+        "DEMO"
+      ],
+      "description": "This is a test blog",
+      "coverImage": "https://images.pexels.com/photos/1181671/pexels-photo-1181671.jpeg",
+      "content": "THIS IS A TEST BLOG ",
+      "date": "2026-01-17T05:16:04.362Z"
+    }
+  ]
+}
